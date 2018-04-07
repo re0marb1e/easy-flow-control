@@ -2,7 +2,7 @@
 
 let callbacks;
 
-const serial = function (cbs){
+const series = function (cbs){
 	callbacks = cbs || [];
 	next();
 }
@@ -14,4 +14,4 @@ function next(result){
 	}
 }
 
-module.exports = serial;
+module.exports = series;

@@ -1,5 +1,5 @@
-const serial = require('./serial');
+const series = require('./series');
 const parallel = require('./parallel');
 
-exports.serial = serial;
+exports.series = series;
 exports.parallel = parallel;

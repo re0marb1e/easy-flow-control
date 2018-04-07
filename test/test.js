@@ -1,6 +1,6 @@
 const flowControl = require('../index');
 
-flowControl.serial([
+flowControl.series([
   function (callback, result){
     console.log('test 1');
     callback('Hello, test 2!');
