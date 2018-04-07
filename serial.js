@@ -3,7 +3,7 @@
 let callbacks;
 
 const serial = function (cbs){
-	callbacks = cbs;
+	callbacks = cbs || [];
 	next();
 }
 
