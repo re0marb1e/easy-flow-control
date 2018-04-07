@@ -1,5 +1,5 @@
 {
-  "name": "easy_flow_control",
+  "name": "easy-flow-control",
   "version": "1.0.0",
   "description": "flow control function like [caolan/async](https://github.com/caolan/async)",
   "main": "index.js",
@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/re0marb1e/easy_flow_control.git"
+    "url": "git+https://github.com/re0marb1e/easy-flow-control.git"
   },
   "keywords": [],
   "author": "re0marb1e <zhxt1016@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/re0marb1e/easy_flow_control/issues"
+    "url": "https://github.com/re0marb1e/easy-flow-control/issues"
   },
-  "homepage": "https://github.com/re0marb1e/easy_flow_control#readme"
+  "homepage": "https://github.com/re0marb1e/easy-flow-control#readme"
 }
